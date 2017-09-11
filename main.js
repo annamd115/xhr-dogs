@@ -55,12 +55,10 @@ function combinedArray(dogsArray, breedsArray){
 	domString(dogsArray);
 };
 
-function domString(dogs){
-	var reallyLongDomString = "";
-	//fat for loop
-	}
-	writeToDom(reallyLongDomString)
-};
+// function domString(dogs){
+// 	var reallyLongDomString = "";
+// 	writeToDom(reallyLongDomString)
+// };
 
 function writeToDom(strang){
 	//put in the dom
